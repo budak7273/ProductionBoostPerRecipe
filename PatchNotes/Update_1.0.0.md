@@ -1,12 +1,16 @@
-This library **allows mod developers to specify recipes that Somersloops can't be used on**,
+Library mod that allows mod developers to specify recipes that Somersloops can't be used on,
 even if the machine itself supports Somersloops.
 
-This expands the kinds of recipes that can be created, especially recipes with catalysts,
-without worrying about Somersloops production bonus breaking their balance by giving you way too much catalyst back.
+
+
+---
+
+_If you enjoy my work, please consider donating to my [completely optional tip jar](https://ko-fi.com/robb4)._
 
 Multiplayer compatible!
 
-_If you enjoy my work, please consider donating to my [completely optional tip jar](https://ko-fi.com/robb4)._
+This expands the kinds of recipes that can be created, especially recipes with catalysts,
+without worrying about Somersloops production bonus breaking their balance by giving you way too much catalyst back.
 
 Without any other mods implementing somersloop-blocked recipes,
 the only change this mod makes is
