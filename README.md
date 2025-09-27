@@ -18,7 +18,7 @@ so just the Packager in the base game.
 <!-- TODO point these to github raw URLs -->
 
 When selecting a recipe in a machine that doesn't support Somersloops,
-all recipes in the picker have a Stat to indicate this:
+all recipes in the picker have a Stat to indicate this.
 The Packager is the only base game production building that does not support Somersloops.
 
 ![Screenshot of the Packager recipe selection UI with the somersloop-disabled icon](https://raw.githubusercontent.com/budak7273/ProductionBoostPerRecipe/refs/heads/main/Assets/Modpage/DisabledInPickerByMachine.jpg)
